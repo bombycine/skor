@@ -1,4 +1,4 @@
-Name	V1 Priority	In RFPs	FD	Ship
+name	V1 Priority	In RFPs	FD	Ship
 Fault tolerance	1	Yes	-5	1
 Situational Awareness: CJIS Synthesis			4	1
 Dispatch capabilities	2	Yes	-5	2
