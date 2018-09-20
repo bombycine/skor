@@ -1,2 +1,28 @@
-Name	FD	Ship
-NL	-4	6
+Name	V1 Priority	In RFPs	FD	Ship
+Fault tolerance	1	Yes	-5	1
+Situational Awareness: CJIS Synthesis			4	1
+Dispatch capabilities	2	Yes	-5	2
+Patrol mobile UX			4	2
+Ingest GIS layers	3	Yes	-5	3
+Alexa for cops			5	3
+Location visualization	4	Yes	-5	4
+Basic CJIS Integration	5	Yes	-5	5
+Custom Jurisdiction	6	Yes	-5	6
+BWC/Signal video autotagging			5	6
+"Messaging: text, pictures"	0		4	6
+Custom CFS	7	Yes	-5	7
+Fast POI lookup			-3	7
+BWC Live streaming integration			5	7
+Messaging: PTT			4	7
+Unit recommendation	8	Yes	-5	8
+Incident routing			-2	8
+"Custom permissions, roles"	9	Yes	-5	9
+Open standards API			2	9
+Messaging: map coordination			4	9
+Basic reporting	10	Yes	-5	10
+Turn by turn directions			1	10
+Self-service deployment			5	11
+Messaging: Interagency coordination			5	14
+HUD			5	18
+Community: SMS-to-incident report			5	24
+Community: Where is my cop			5	24
